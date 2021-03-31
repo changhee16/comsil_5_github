@@ -50,7 +50,7 @@ int main(){
 					flag = true;     break;
 					
 				default:
-					cout<<"잘못 입력하셨습니다."<<endl;
+					cout<<"Error"<<endl;
 					break;
 			
 			}
